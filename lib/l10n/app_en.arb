@@ -1,0 +1,14 @@
+{
+  "category" : "Category",
+  "settings" : "Settings",
+  "sports" : "Sports",
+  "technology" : "Technology",
+  "bussiness" : "Bussiness",
+  "language" : "Language",
+  "news" : "News",
+  "newsApp" : "News app !",
+  "sceince" : "Sceince",
+  "environment" : "Environment",
+  "health" : "Health",
+  "pick_your_category_of_interest" : "pick your category of interest !"
+}
